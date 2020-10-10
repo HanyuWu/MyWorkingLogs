@@ -1,5 +1,9 @@
 {
 	"gitbook": "3.2.3",
 	"title": "My Awesome Book",
-	"language": "cn"
+	"language": "cn",
+	"plugins": ["expandable-chapters-small"],
+    "pluginsConfig": {
+        "expandable-chapters-small":{}
+    }
 }
