@@ -8,6 +8,8 @@
 
 <a href="http://wuh1994.gitee.io/myworkinglogs" target="_blank">Please Visit My Page!</a>  
 
+如果左边导航页没有加载并显示, 请手动翻页, 翻页后网站插件和导航页会重新加载出来!
+
 ----------
 
 **Powered by [Gitbook](https://github.com/GitbookIO/gitbook)**  
